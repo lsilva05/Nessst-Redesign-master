@@ -4,6 +4,10 @@
 	width: 960px;
 }
 
+/*Typography*/
+h1{
+	
+
 /* Nav */
 li {
 	float: left;
@@ -28,3 +32,6 @@ a:hover,
 a:active {
 	background: #666;
 }
+
+
+	
